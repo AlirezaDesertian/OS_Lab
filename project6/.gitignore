@@ -1,0 +1,14 @@
+# Compiled binaries
+mt
+*.o
+*.out
+a.out
+
+# Editor / system files
+*.swp
+*.tmp
+*.log
+
+# Backup files
+*~
+
