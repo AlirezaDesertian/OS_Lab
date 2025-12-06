@@ -1,0 +1,9 @@
+# Compiled binaries
+pipe_os
+*.o
+*.out
+*.exe
+
+# Backup / temp files
+*.swp
+*.tmp
