@@ -1,0 +1,25 @@
+# Binary / executable files
+restaurant
+*.out
+*.exe
+
+# Object files
+*.o
+
+# Temporary / swap files
+*~
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# OS specific files
+.DS_Store
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+
+# Makefile leftovers
+build/
